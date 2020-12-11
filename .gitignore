@@ -1,0 +1,12 @@
+*.class
+
+**/build/
+**/bin/
+**/libs/
+**/.settings/
+**/.project
+**/.classpath
+**/out/
+.idea/
+**/node_modules/
+
